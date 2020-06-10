@@ -7,3 +7,4 @@ fourth commit on branch b
 2. commit in branch c
 
 first commit for pull_rebase
+second commit for pull rebase
